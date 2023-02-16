@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 bye
 >>>>>>> f677a92 (changed to bye from aaaaaaaaaaaaaaa)
+=======
+bye
+>>>>>>> f9695e3 (to bye)
