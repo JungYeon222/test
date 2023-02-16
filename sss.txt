@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+hello
+=======
 bye
+>>>>>>> f677a92 (changed to bye from aaaaaaaaaaaaaaa)
